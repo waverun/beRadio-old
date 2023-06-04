@@ -5,7 +5,7 @@
 </head>
 <body>
     <div align="center">
-        <img src="https://example.com/logo.png" alt="beRadio logo">
+        <img src="beRadio/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" alt="beRadio logo">
         <h1>Welcome to beRadio</h1>
     </div>
     <p>
