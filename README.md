@@ -15,6 +15,14 @@
     </p> -->
   beRadio is a free application that lets you listen to a multitude of radio stations, featuring a robust buffering system for a seamless listening experience. You can easily search through various genres and locations to find your favorite station!
 
+  ## Screenshots
+
+<div align="center">
+    <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="200"/>
+    <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="200"/>
+    <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="200"/>
+</div>
+  
 ## Installation
 
 To install beRadio on your iPhone or iPad, follow these steps:
